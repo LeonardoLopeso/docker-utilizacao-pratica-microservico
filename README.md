@@ -1,2 +1,5 @@
-# docker-utilizacao-pratica-microservico
-Docker: Utilização prática no cenário de microserviços
+# Bootcamp - Linux Experience
+
+## Desafio de projeto Final
+
+- Configurando Docker, cluster, criando um container MySQL, Cluster Swarm, Replicando volume dentro do cluster e criando proxy utilizando NGINX.  
